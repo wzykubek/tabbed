@@ -26,4 +26,4 @@ MOD + Shift + h | move tab to left side
 MOD + Shift + l | move tab to right side
 MOD + Tab | switch between two tabs
 MOD + [Num] (e.g. 1) | switch to specified tab
-MOD + q | kill current tab
+MOD + d | kill current tab
